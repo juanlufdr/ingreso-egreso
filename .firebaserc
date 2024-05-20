@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ingreso-egreso-app-af45f": {
+      "hosting": {
+        "ingresos-egresos": [
+          "ingreso-egreso-app-af45f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ingreso-egreso-app-af45f"
+  }
+}
